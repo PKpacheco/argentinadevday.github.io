@@ -10,23 +10,23 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Rio Dev Day"
-email: "rio.gdg@gmail.com"
-description: "Evento para juntar as comunidades de desenvolvimento do Rio."
-baseurl: "/riodevday.github.io"
-url: "gdgrio.org/riodevday"
+title: "Argentina DevDay"
+email: "argentinadevday@gmail.com"
+description: "Evento para unirse al desarrollo de la comunidad Argentina."
+baseurl: "/argentinadevday.github.io"
+# url: "gdgrio.org/riodevday"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "Seres Humanos que curtem tecnologia"
-organizerAlternateName: "Seres Humanos que curtem tecnologia"
+organizerName: "Los seres humanos que disfrutan de la tecnología"
+organizerAlternateName: "Los seres humanos que disfrutan de la tecnología"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "jonatasemidio@gmail.com"
+organizerEmail: "argentinadevday@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://riodevday.github.io/"
+organizerLink: "http://argentinadevday.github.io/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, rio"
@@ -44,46 +44,47 @@ c4pUrl: "https://goo.gl/forms/yD2sEXxqfsssUZLn2"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programação"}
- - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/team/", text: "Organizadores"}
- - {permalink: "/communities/", text: "Comunidades"}
+ - {permalink: "/schedule/", text: "Programación"}
+ - {permalink: "/speakers/", text: "Charlantes"}
+ - {permalink: "/team/", text: "Los organizadores"}
+ - {permalink: "/communities/", text: "Proyectos"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "https://www.eventbrite.com.br/e/rio-dev-day-tickets-28344870270?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing", text: "Participe do Evento"}
- #- {link: "https://goo.gl/forms/yD2sEXxqfsssUZLn2", text: "Seja um Palestrante"}
+# bottomNavigationLinks:
+#  - {link: "#", text: "Participar en el evento"}
+#  - {link: "#", text: "Ser un orador"}
 
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com.br/e/rio-dev-day-tickets-28344870270?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing", text: "Participe do Evento"}
- #- {link: "https://goo.gl/forms/yD2sEXxqfsssUZLn2", text: "Seja um Palestrante"}
-
+ - {link: "#", text: "Participar evento"}
+ - {link: "#", text: "Ser orador"}
+ - {link: "#", text: "Registrar proyecto"}
 
 # Hero Block
-heroImage: "rio-walp.png"
-logoUnigranrio: "riodevday-logo.png"
-heroTitle: "Rio Dev Day - <typeout>"
-eventDate: "19 de novembro de 2016"
-typeoutTextValues: '"", "Build Better Together", "GDG Rio", "Python Rio", "Ruby on Rio", "Pyladies Rio", "Woman Techmakers Rio"'
+heroImage: "fundo_escuro.png"
+logoUnigranrio: "logo_ar.png"
+heroTitle: "Argentina Dev Day - <typeout>"
+eventDate: "01 de -- de 2017"
+typeoutTextValues: '"", "Build Better Together", "GDG Mendoza", "Python ", "Ruby ", "Pyladies ", "Woman Teckmakers "'
 typeoutFallback: "Season"
 heroButtons:
  #- {link: "https://goo.gl/forms/yD2sEXxqfsssUZLn2", text: "Seja um Palestrante"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "Sobre o Rio DevDay"
+aboutTitle: "Acerca de Argentina DevDay"
 aboutBlock:
- - {title: "Palestras", image: "bigdata.jpg", text: "Palestras sobre linguagens, frameworks e muito mais." }
- - {title: "Lightning Talks", image: "iot.png", text: "Lightning Talks, palestras mais rápidas sobre desenvolvimento." }
- - {title: "Workshops", image: "dev.png", text: "Workshops sobre novas linguagens, frameworks modernos e muito mais." }
+ - {title: "Talks", image: "bigdata.jpg", text: "Charlas sobre lenguajes de programación, frameworks y más." }
+ - {title: "Lightning Talks", image: "iot.png", text: "Lightning Talks, charlas más rápidos en el desarrollo." }
+ - {title: "Workshops", image: "dev.png", text: "Workshops en nuevos lenguajes, frameworks modernos y más." }
+ - {title: "Open Source", image: "opsource.jpg", text: "Un proyecto Open Source ganará la asistencia." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "participantes", detail: ""}
- - {count: "6", specialCharacter: "+", info: "horas", detail: "de palestras e conteúdo"}
- - {count: "20", specialCharacter: "+", info: "palestrantes", detail: "sinistros"}
- - {count: "1", specialCharacter: "", info: "dia", detail: "de puro aprendizado"}
+ - {count: "200", specialCharacter: "+", info: "participantes", detail: ""}
+ - {count: "7", specialCharacter: "+", info: "horas", detail: "charlas y contenido"}
+ - {count: "10", specialCharacter: "+", info: "charlantes", detail: "grandes"}
+ - {count: "1", specialCharacter: "", info: "día", detail: "puro aprendizaje"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -91,33 +92,34 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Os Palestrantes"
-rockstarSpeakersButtonText: "Ver todos os palestrantes"
+rockstarSpeakersTitle: "Charlantes"
+rockstarSpeakersButtonText: "Ver todos los charlantes"
 
 # Location Block
-locationBlockTitle: "Localização"
-eventLocationName: "Universidade Estácio de Sá campus Nova América"
+locationBlockTitle: "Ubicación"
+eventLocationName: "Universidad Mendoza"
 eventLocationLink: "#"
-eventStreetAddress: "Estado do Rio de Janeiro"
-eventAddressLocality: "Estado do Rio de Janeiro"
-eventAddressLocalityRegion: "Rio de Janeiro"
+eventStreetAddress: "Mendoza"
+eventAddressLocality: "Mendoza"
+eventAddressLocalityRegion: "Mendoza"
 eventPostalCode: ""
-eventAddressCountry: "Brasil"
-eventStartTime: "2016-11-19T10:00"
+eventAddressCountry: "Argentina"
+eventStartTime: "2017-11-19T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2016-11-19T17:00"
-eventPlaceCoordinates: "-22.8782071,-43.272322"
-mapCenterCoordinates: "-22.8782071,-43.272322"
-mapMobileCenterCoordinates: "-22.8782071,-43.272322"
+eventEndTime: "2017-11-19T17:00"
+eventPlaceCoordinates: "32.8914378, -68.8621156"
+mapCenterCoordinates: "32.8914378, -68.8621156"
+mapMobileCenterCoordinates: "32.8914378, -68.8621156"
 
 # Venue Block
-venueBlockTitle: "Estácio - Shopping Nova América"
+venueBlockTitle: "Universidad Mendoza"
 venueBigImage: "auditorio.jpg"
 venueSmallImage1: "novaamerica.png"
 venueSmallImage2: "novaamerica-2.jpg"
+
 #venueSmallImage3: "venue_3.jpg"
 venueTitle: "Auditório"
-venueFeatures: ["Bom ambiente para palestras", "Boa acústica, climatização", "Localizado dentro da Universidade", "Universidade localizada dentro de um shopping!"]
+venueFeatures: ["Buen ambiente para las conversaciones "," Una buena acústica, aire acondicionado", "Situado dentro de la Universidad "]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -129,13 +131,14 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 organizersTitle: "Organização"
 partnersTitle: "Parceiros"
 
-partnersC4sponsorsButton: "Seja um patrocinador, entre em contato pelo email rio.gdg@gmail.com"
+partnersC4sponsorsButton: "Sea un patrocinador, por favor, póngase en contacto con nosotros por correo electrónico argentinadevday@gmail.com"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Fique por dentro!"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "O seu e-mail será guardado numa lista para que enviemos informaçõe sobre o evento"
+subscribeTitle: "Mantenerse al día con las noticias!"
+subscribeAction: "#"
+# subscribeInfo: "Su dirección de correo electrónico se guardará en una lista para enviar información sobre el evento"
+
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -181,21 +184,20 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/114684774037479279638/", icon: "google-plus"}
- - {link: "https://twitter.com/gdgcaxias", icon: "twitter"}
- - {link: "https://www.facebook.com/gdgduquedecaxias/", icon: "facebook"}
+ - {link: "https://twitter.com/", icon: "twitter"}
+ - {link: "https://www.facebook.com/", icon: "facebook"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.estacio.br/", text: "Universidade Estácio de Sá"}
+   - {link: "#", text: "Universidad Mendoza"}
    - {link: "https://developers.google.com", text: "Google Developers"}
 
  -
-  title: "Contatos"
+  title: "Contactos"
   links:
 
-   - {link: "mailto:rio.gdg@gmail.com", text: "rio.gdg@gmail.com"}
+   - {link: "mailto:argentinadevday@gmail.com", text: "argentinadevday@gmail.com"}
 
 # Blog
 blogTitle: "Latest news"
@@ -206,8 +208,13 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "Sobre nós"
-aboutUs: "Somos um grupo de desenvolvedores de várias linguagens, de várias comunidades que decidimos nos unir e fazer um evento misturando tudo o que tem de melhor."
+teamBlockTitle: "Sobre Nosotros"
+aboutUs: "Somos un grupo de desarrolladores en varios lenguajes de programación, varias comunidades decidieron unirse a nosotros y hacer un evento que mezcla todo lo que es mejor."
+
+# # Communities Block
+# communitiesBlockTitle: "Proyectos Open Source "
+# aboutUs: "Sé uno de los proyectos que ayudarán.Todos los beneficios recaudados de patrocinio del evento se destinarán a un proyecto de código abierto que será elegido por votación."
+
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
