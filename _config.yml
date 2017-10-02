@@ -97,7 +97,7 @@ rockstarSpeakersButtonText: "Ver todos los charlantes"
 
 # Location Block
 locationBlockTitle: "Ubicación"
-eventLocationName: "Universidad Mendoza"
+eventLocationName: "UTN"
 eventLocationLink: "#"
 eventStreetAddress: "Mendoza"
 eventAddressLocality: "Mendoza"
