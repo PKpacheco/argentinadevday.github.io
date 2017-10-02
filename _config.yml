@@ -68,7 +68,7 @@ typeoutTextValues: '"", "Build Better Together", "GDG Mendoza", "Python ", "Ruby
 typeoutFallback: "Season"
 heroButtons:
  #- {link: "https://goo.gl/forms/yD2sEXxqfsssUZLn2", text: "Seja um Palestrante"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "Acerca de Argentina DevDay"
@@ -87,7 +87,7 @@ statisticBlock:
  - {count: "1", specialCharacter: "", info: "día", detail: "puro aprendizaje"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+# latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
